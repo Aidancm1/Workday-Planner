@@ -31,7 +31,7 @@ $(".time-block").each(function () {
   }
    else {
     console.log(hourOfTimeBlock, "Is right now");
-    $thisTimeBlock.addclass("present");
+  $thisTimeBlock.addClass("present");
   }
 });
 
