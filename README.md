@@ -4,7 +4,7 @@
 ### I added jquery to adjust classes of present,future, or past while adding an active clock at the top of the page. I also added code for the save button to save the corresponding time to local storage.
 
 ## Screenshot:
-
+![screenshot](./Screenshot%202023-06-04%20at%208.01.38%20PM.png)
 
 ## Deployment
 ### https://aidancm1.github.io/Workday-Planner/
